@@ -1,0 +1,148 @@
+{
+  "browsers": [
+    {
+      "name": "Google Chrome",
+      "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+      "installer": "chrome_installer.exe"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "url": "https://download.mozilla.org/?product=firefox-latest&os=win&lang=pt-BR",
+      "installer": "firefox_installer.exe"
+    },
+    {
+      "name": "Microsoft Edge",
+      "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "url": "https://go.microsoft.com/fwlink/?linkid=2124703",
+      "installer": "edge_installer.exe"
+    },
+    {
+      "name": "Brave",
+      "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "url": "https://laptop-updates.brave.com/latest/winx64",
+      "installer": "brave_installer.exe"
+    },
+    {
+      "name": "Opera",
+      "path": "C:\\Program Files\\Opera\\launcher.exe",
+      "url": "https://get.geo.opera.com/pub/opera/desktop/79.0.4143.22/win/Opera_79.0.4143.22_Setup.exe",
+      "installer": "opera_installer.exe"
+    },
+    {
+      "name": "Vivaldi",
+      "path": "C:\\Program Files\\Vivaldi\\Application\\vivaldi.exe",
+      "url": "https://downloads.vivaldi.com/stable/Vivaldi.4.1.2369.21.x64.exe",
+      "installer": "vivaldi_installer.exe"
+    }
+  ],
+  "utilities": [
+    {
+      "name": "WinRAR",
+      "path": "C:\\Program Files\\WinRAR\\WinRAR.exe",
+      "url": "https://www.rarlab.com/rar/winrar-x64-611br.exe",
+      "installer": "winrar_installer.exe"
+    },
+    {
+      "name": "7-Zip",
+      "path": "C:\\Program Files\\7-Zip\\7zFM.exe",
+      "url": "https://www.7-zip.org/a/7z2107-x64.exe",
+      "installer": "7zip_installer.exe"
+    },
+    {
+      "name": "Notepad++",
+      "path": "C:\\Program Files\\Notepad++\\notepad++.exe",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.3/npp.8.1.9.3.Installer.exe",
+      "installer": "notepadpp_installer.exe"
+    },
+    {
+      "name": "GIMP",
+      "path": "C:\\Program Files\\GIMP 2\\bin\\gimp-2.10.exe",
+      "url": "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.28-setup-2.exe",
+      "installer": "gimp_installer.exe"
+    },
+    {
+      "name": "FileZilla",
+      "path": "C:\\Program Files\\FileZilla FTP Client\\filezilla.exe",
+      "url": "https://download.filezilla-project.org/client/FileZilla_3.55.1_win64-setup.exe",
+      "installer": "filezilla_installer.exe"
+    },
+    {
+      "name": "CCleaner",
+      "path": "C:\\Program Files\\CCleaner\\CCleaner.exe",
+      "url": "https://download.ccleaner.com/ccsetup586.exe",
+      "installer": "ccleaner_installer.exe"
+    },
+    {
+      "name": "HandBrake",
+      "path": "C:\\Program Files\\HandBrake\\HandBrake.exe",
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.4.2/HandBrake-1.4.2-x86_64-Win_GUI.exe",
+      "installer": "handbrake_installer.exe"
+    },
+    {
+      "name": "Git",
+      "path": "C:\\Program Files\\Git\\bin\\git.exe",
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe",
+      "installer": "git_installer.exe"
+    },
+    {
+      "name": "Visual Studio Code",
+      "path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "url": "https://update.code.visualstudio.com/latest/win32-x64-user/stable",
+      "installer": "vscode_installer.exe"
+    }
+  ],
+  "multimedia": [
+    {
+      "name": "VLC Media Player",
+      "path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+      "url": "https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe",
+      "installer": "vlc_installer.exe"
+    },
+    {
+      "name": "Audacity",
+      "path": "C:\\Program Files\\Audacity\\audacity.exe",
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3.exe",
+      "installer": "audacity_installer.exe"
+    },
+    {
+      "name": "Adobe Acrobat Reader",
+      "path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe",
+      "url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2101220072/AcroRdrDC2101220072_en_US.exe",
+      "installer": "acrobat_reader_installer.exe"
+    },
+    {
+      "name": "iTunes",
+      "path": "C:\\Program Files\\iTunes\\iTunes.exe",
+      "url": "https://www.apple.com/itunes/download/win64",
+      "installer": "itunes_installer.exe"
+    },
+    {
+      "name": "Paint.NET",
+      "path": "C:\\Program Files\\paint.net\\PaintDotNet.exe",
+      "url": "https://www.dotpdn.com/files/paint.net.4.3.10.install.zip",
+      "installer": "paintdotnet_installer.exe"
+    }
+  ],
+  "development_tools": [
+    {
+      "name": "Python",
+      "path": "C:\\Program Files\\Python39\\python.exe",
+      "url": "https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe",
+      "installer": "python_installer.exe"
+    },
+    {
+      "name": "Eclipse IDE",
+      "path": "C:\\Program Files\\eclipse\\eclipse.exe",
+      "url": "https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-09/R/eclipse-inst-jre-win64.exe",
+      "installer": "eclipse_installer.exe"
+    },
+    {
+      "name": "MySQL Workbench",
+      "path": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0\\MySQLWorkbench.exe",
+      "url": "https://cdn.mysql.com//Downloads/MySQLInstaller/mysql-installer-web-community-8.0.28.0.msi",
+      "installer": "mysql_workbench_installer.exe"
+    }
+  ]
+}
