@@ -1,1 +1,6 @@
-
+{
+  "twitter_handle": "@exemplo",
+  "nome": "Meu Programa",
+  "versao": "1.0",
+  "atualizacao_disponivel": true
+}
